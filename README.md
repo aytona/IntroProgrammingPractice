@@ -10,4 +10,4 @@ C++ practice for Introduction to Programming finals
 * UnZip
 * Open folder
 * Open 'finalPractice.sln'
-* To debug, comment out the int main() all folders except the one you want to use
+* To debug, comment out the int main() in all folders except the one you want to use
